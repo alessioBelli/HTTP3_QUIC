@@ -1,0 +1,209 @@
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:25 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.131041613384845
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      22ms  |         5ms    |        2ms    |          6ms      |         22ms     ]
+             |                |               |                   |                  |
+    namelookup:22ms           |               |                   |                  |
+                        connect:27ms          |                   |                  |
+                                    pretransfer:29ms              |                  |
+                                                      starttransfer:35ms             |
+                                                                                 total:57ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:26 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.1157791613384846
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      16ms  |         6ms    |        0ms    |          4ms      |         20ms     ]
+             |                |               |                   |                  |
+    namelookup:16ms           |               |                   |                  |
+                        connect:22ms          |                   |                  |
+                                    pretransfer:22ms              |                  |
+                                                      starttransfer:27ms             |
+                                                                                 total:47ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:27 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.1261911613384847
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      15ms  |         4ms    |        0ms    |          4ms      |         21ms     ]
+             |                |               |                   |                  |
+    namelookup:15ms           |               |                   |                  |
+                        connect:19ms          |                   |                  |
+                                    pretransfer:20ms              |                  |
+                                                      starttransfer:23ms             |
+                                                                                 total:44ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:28 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.145781613384848
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      19ms  |         6ms    |        0ms    |          5ms      |         19ms     ]
+             |                |               |                   |                  |
+    namelookup:19ms           |               |                   |                  |
+                        connect:26ms          |                   |                  |
+                                    pretransfer:26ms              |                  |
+                                                      starttransfer:31ms             |
+                                                                                 total:50ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:29 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.1300721613384849
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      15ms  |         7ms    |        0ms    |          4ms      |         18ms     ]
+             |                |               |                   |                  |
+    namelookup:15ms           |               |                   |                  |
+                        connect:23ms          |                   |                  |
+                                    pretransfer:23ms              |                  |
+                                                      starttransfer:27ms             |
+                                                                                 total:45ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:29 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.1161411613384849
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      15ms  |         4ms    |        1ms    |          4ms      |         17ms     ]
+             |                |               |                   |                  |
+    namelookup:15ms           |               |                   |                  |
+                        connect:20ms          |                   |                  |
+                                    pretransfer:20ms              |                  |
+                                                      starttransfer:24ms             |
+                                                                                 total:41ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:30 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.169461613384850
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       6ms  |         5ms    |        0ms    |          5ms      |         17ms     ]
+             |                |               |                   |                  |
+    namelookup:6ms            |               |                   |                  |
+                        connect:12ms          |                   |                  |
+                                    pretransfer:12ms              |                  |
+                                                      starttransfer:17ms             |
+                                                                                 total:33ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:31 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.176051613384851
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       8ms  |         7ms    |        0ms    |          4ms      |         17ms     ]
+             |                |               |                   |                  |
+    namelookup:8ms            |               |                   |                  |
+                        connect:15ms          |                   |                  |
+                                    pretransfer:16ms              |                  |
+                                                      starttransfer:20ms             |
+                                                                                 total:37ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:32 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.1312871613384852
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      15ms  |         5ms    |        0ms    |          5ms      |         19ms     ]
+             |                |               |                   |                  |
+    namelookup:15ms           |               |                   |                  |
+                        connect:20ms          |                   |                  |
+                                    pretransfer:20ms              |                  |
+                                                      starttransfer:26ms             |
+                                                                                 total:45ms   
+
+HTTP/3 200
+server: nginx/1.16.1
+date: Mon, 15 Feb 2021 10:27:32 GMT
+content-type: text/html
+content-length: 213009
+last-modified: Mon, 15 Feb 2021 10:09:09 GMT
+etag: "602a4845-34011"
+alt-svc: h3-27=":443"; ma=86400
+accept-ranges: bytes
+
+Body stored in: /tmp/httpstat-body.1180471613384852
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       8ms  |         7ms    |        0ms    |          4ms      |         19ms     ]
+             |                |               |                   |                  |
+    namelookup:8ms            |               |                   |                  |
+                        connect:16ms          |                   |                  |
+                                    pretransfer:16ms              |                  |
+                                                      starttransfer:20ms             |
+                                                                                 total:39ms

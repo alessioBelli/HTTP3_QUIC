@@ -1,0 +1,219 @@
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:35 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=d641a8ddb95ef792a9c12872969f9e1bd1613733275; expires=Sun, 21-Mar-21 11:14:35 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98be4e00000c715b9cd000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90aa1aed0c71-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.114211613733275
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       9ms  |        53ms    |        0ms    |         75ms      |        125ms     ]
+             |                |               |                   |                  |
+    namelookup:9ms            |               |                   |                  |
+                        connect:63ms          |                   |                  |
+                                    pretransfer:63ms              |                  |
+                                                      starttransfer:137ms            |
+                                                                                 total:262ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:36 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=d5fa3dd97cd34f8107585d39902eb26e71613733276; expires=Sun, 21-Mar-21 11:14:36 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98c20b00001ede8e3c8000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90b01fa21ede-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.170751613733276
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      10ms  |        54ms    |        0ms    |         79ms      |        133ms     ]
+             |                |               |                   |                  |
+    namelookup:10ms           |               |                   |                  |
+                        connect:65ms          |                   |                  |
+                                    pretransfer:65ms              |                  |
+                                                      starttransfer:144ms            |
+                                                                                 total:277ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:37 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=dd85d98f89eaa667e0b634629368d231d1613733277; expires=Sun, 21-Mar-21 11:14:37 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98c62b0000fa8cf2a97000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90b6af36fa8c-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.114121613733277
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      14ms  |        62ms    |        0ms    |         80ms      |        157ms     ]
+             |                |               |                   |                  |
+    namelookup:14ms           |               |                   |                  |
+                        connect:75ms          |                   |                  |
+                                    pretransfer:76ms              |                  |
+                                                      starttransfer:156ms            |
+                                                                                 total:313ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:38 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=df30c68c1e367674ad26c3b60ae19ae161613733278; expires=Sun, 21-Mar-21 11:14:38 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98ca110000faa8a0221000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90bce8aefaa8-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.129351613733278
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       9ms  |        56ms    |        0ms    |         78ms      |        128ms     ]
+             |                |               |                   |                  |
+    namelookup:9ms            |               |                   |                  |
+                        connect:65ms          |                   |                  |
+                                    pretransfer:65ms              |                  |
+                                                      starttransfer:144ms            |
+                                                                                 total:272ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:39 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=dacabfa5a6b5a5aac3c2877e0c682915b1613733279; expires=Sun, 21-Mar-21 11:14:39 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98ce0e0000bf6e52862000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90c34935bf6e-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.13641613733279
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[      13ms  |        53ms    |        0ms    |         77ms      |        132ms     ]
+             |                |               |                   |                  |
+    namelookup:13ms           |               |                   |                  |
+                        connect:66ms          |                   |                  |
+                                    pretransfer:66ms              |                  |
+                                                      starttransfer:144ms            |
+                                                                                 total:276ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:40 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=dfaa3e607d563f72fe386da2f6872129c1613733280; expires=Sun, 21-Mar-21 11:14:40 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98d1e50000fa2c682d3000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90c96be2fa2c-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.181361613733280
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       9ms  |        62ms    |        0ms    |         67ms      |        128ms     ]
+             |                |               |                   |                  |
+    namelookup:9ms            |               |                   |                  |
+                        connect:72ms          |                   |                  |
+                                    pretransfer:72ms              |                  |
+                                                      starttransfer:139ms            |
+                                                                                 total:267ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:41 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=d0b45b9f071dcce38b0a4daec0b6ca4c61613733281; expires=Sun, 21-Mar-21 11:14:41 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98d5840000faa8df329000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90cf3851faa8-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.1283621613733281
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       9ms  |        50ms    |        0ms    |         70ms      |        129ms     ]
+             |                |               |                   |                  |
+    namelookup:9ms            |               |                   |                  |
+                        connect:60ms          |                   |                  |
+                                    pretransfer:60ms              |                  |
+                                                      starttransfer:130ms            |
+                                                                                 total:259ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:42 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=dbb794c7256acf6de4017ecdc0c3dc1461613733282; expires=Sun, 21-Mar-21 11:14:42 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98d94d00000b744e085000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90d549210b74-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.1322231613733282
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       9ms  |        52ms    |        1ms    |         73ms      |        130ms     ]
+             |                |               |                   |                  |
+    namelookup:9ms            |               |                   |                  |
+                        connect:62ms          |                   |                  |
+                                    pretransfer:62ms              |                  |
+                                                      starttransfer:135ms            |
+                                                                                 total:265ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:43 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=d4ddb6d2bfc04159fe730b495dc3247551613733283; expires=Sun, 21-Mar-21 11:14:43 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98dcfd00004c38b810c000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90db2b6e4c38-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.19521613733282
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       4ms  |        52ms    |        0ms    |         77ms      |        134ms     ]
+             |                |               |                   |                  |
+    namelookup:4ms            |               |                   |                  |
+                        connect:56ms          |                   |                  |
+                                    pretransfer:56ms              |                  |
+                                                      starttransfer:133ms            |
+                                                                                 total:267ms  
+
+HTTP/3 200
+date: Fri, 19 Feb 2021 11:14:44 GMT
+content-type: text/html
+content-length: 109425
+set-cookie: __cfduid=d2e2e3fa4209a1f880439a3b6225e91411613733284; expires=Sun, 21-Mar-21 11:14:44 GMT; path=/; domain=.cloudflare-quic.com; HttpOnly; SameSite=Lax; Secure
+cf-request-id: 085b98e0ac0000d8f114aa5000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 623f90e11c39d8f1-AMS
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+Body stored in: /tmp/httpstat-body.1234391613733283
+
+  DNS Lookup   TCP Connection   SSL Handshake   Server Processing   Content Transfer
+[       9ms  |        63ms    |        0ms    |         77ms      |        145ms     ]
+             |                |               |                   |                  |
+    namelookup:9ms            |               |                   |                  |
+                        connect:71ms          |                   |                  |
+                                    pretransfer:71ms              |                  |
+                                                      starttransfer:148ms            |
+                                                                                 total:293ms
